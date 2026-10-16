@@ -1,4 +1,4 @@
-# Hisaab: a Roman Urdu Kharcha Tracker
+# Hisaab: Roman Urdu Kharcha Tracker
 
 **Tagline:** Type your spending the way you'd text a friend. Hisaab works out where your money went.
 
